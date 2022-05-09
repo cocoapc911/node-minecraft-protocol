@@ -34,7 +34,7 @@ automatically logged in and validated against mojang's auth.
 Create a server instance for `version` of minecraft.
 
 ### server.writeToClients(clients, name, params)
-
+a
 Write a packet to all `clients` but encode it only once.
 
 ### server.onlineModeExceptions
